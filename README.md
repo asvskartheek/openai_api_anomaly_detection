@@ -2,9 +2,9 @@
 This repo analyzes the latest data, and detects any anomalies (if found). If an anomaly is detected, it sends an email to a registered email address. Also, provided with a very handy file deploy_to_aws_lambda.py to run this on your own at absolutely fraction of a cost.
 
 ## Pipeline
-- [] Provide maintainance and hosting of this.
-- [] Select custom Anomaly detection algorithms
-- [] Plug & Play their own Anomaly detection algorithms
+- [ ] Provide maintainance and hosting of this.
+- [ ] Select custom Anomaly detection algorithms
+- [ ] Plug & Play their own Anomaly detection algorithms
 
 ## Support Me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asvs)
