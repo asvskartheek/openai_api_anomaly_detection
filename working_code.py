@@ -6,7 +6,7 @@ from fbprophet import Prophet
 import pandas as pd
 import smtplib
 
-api_key = os.environ.get('API_KEY')
+api_key = os.environ.get('OPENAI_API_KEY')
 headers = {
         'Authorization': f'Bearer {api_key}'
 }
